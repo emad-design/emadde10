@@ -1,7 +1,6 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/emadserdar)
-
-### Hi, I'm Emad Serdar 👋
-### Web Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Emad+Serdar+👋;Web+Developer;Open+to+work!" alt="Typing SVG" />
+</div>
 
 ### Languages
 
